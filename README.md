@@ -102,3 +102,7 @@ On linux you can get this functionality in many ways however it seems the most p
 
 ### MacOS
 I tried for hours to get the compiled .app working the way it should but it never worked, the script can run and will work fine on its own but once compiled into a .app it stops working and I can’t figure out why. Maybe you can or maybe you want to set up something else like an apple script that runs the python script directly. You will likely need [defaultbrowser](https://github.com/kerma/defaultbrowser) and some plst settings to get osx to open things using the script. The macos folder contains the MacOS icon and my pyinstaller spec file.
+
+## Authors
+- [Shy](http://shystudios.us/about.html) (Concept, Programming, and Sound)
+- [Gunther](http://shystudios.us/about.html) (Icon)
